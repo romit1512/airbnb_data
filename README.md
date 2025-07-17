@@ -15,3 +15,21 @@ Project Highlights
 
 - ✅ **Insights & Conclusion**  
   Summarized findings to offer actionable insights for Airbnb hosts, like optimal pricing ranges and impactful listing features.
+
+
+  **Tools & Libraries**
+
+- **Python**
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+
+  ## 📊 Key Visualizations
+
+- Distribution of prices and availability
+- Correlation heatmap of numerical features
+- Average price by neighborhood and room type
+- Time-series trends for listings
+
+
